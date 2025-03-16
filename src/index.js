@@ -14,6 +14,7 @@ function subtract(){
         )}`;
 }
 
+
 function resetFields(){
     document.getElementById("num1").value = "";
     document.getElementById("num2").value = "";
